@@ -1,7 +1,7 @@
 <!-- ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/uttombarmon/uttombarmon/main/src/bg.png) -->
 <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/main/src/bg.png" width='100%'>
 
-### 💗Welcome
+## 💗Welcome
 
 Welcome to my GitHub repository! Here, you'll find a collection of projects that showcase my journey as a MERN stack developer. I'm passionate about building robust and innovative web applications, and I'm currently exploring the exciting world of Next.js.
 
@@ -10,6 +10,13 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="80%"></a>
 
 <p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttombarmon&theme=react"></p>
+
+## 🤝Reach Me Out
+<p align="center">
+<a href="https://www.facebook.com/shreeuttomroyr/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/shree-uttom-roy-rohit-364a35232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/shreeuttomr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+</p>
 
 ## 🚀 What I'm up to
 
@@ -35,3 +42,36 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 <!-- firebase -->
 <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/firebase.svg">
 </p>
+
+# 🛠️ Projects
+## 1. <a href="https://skyline-fb8da.web.app/">SkyLine</a>
+### Description :
+ * This website is make for realestate bussiness
+ * This project created by MERN
+ * Home page have some features food 
+ * This project used firebase authentication, user login email and passwor and google account
+ * In project logged user make offer on the property
+ * Only Agent Add Property and remove it
+ * Admin manage user, manage property, manage review
+  #### 🔗Live Link : <a href="https://skyline-fb8da.web.app/">SkyLine..</a>
+ #### 🔗Repo Link : <a href="https://github.com/uttombarmon/skyline">SkyLine..</a>
+
+## 2. [FoodHub](https://foodhub-3a8d3.web.app/)
+### Description :
+ * This website is waste food make usable
+ * This project created by MERN
+ * Home page have some features food
+ * Here logged user add food, request food and many more 
+ * This project used firebase authentication, user login email and passwor and google account
+
+ #### 🔗Live Link: [FoodHub..](https://foodhub-3a8d3.web.app/) 
+ #### 🔗Repo Link: [FoodHub..](https://github.com/uttombarmon/Hello-Food) 
+
+## 3. [FoodHub](https://techhub-85948.web.app)
+- We are used Router in this project
+- We are used firbase for databases 
+- In server side used node.js and express.js
+- We are stored data in mongodb database
+- If user logged then see details, update and add products
+#### 🔗Live Link: <a href="https://techhub-85948.web.app" target="_blank">TechHub..</a>
+#### 🔗Repo Link: <a href="https://github.com/uttombarmon/brand-shop" target="_blank">TechHub..</a>
