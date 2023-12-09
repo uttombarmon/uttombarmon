@@ -67,7 +67,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
  #### 🔗Live Link: [FoodHub..](https://foodhub-3a8d3.web.app/) 
  #### 🔗Repo Link: [FoodHub..](https://github.com/uttombarmon/Hello-Food) 
 
-## 3. [FoodHub](https://techhub-85948.web.app)
+## 3. [TechHub](https://techhub-85948.web.app)
 - We are used Router in this project
 - We are used firbase for databases 
 - In server side used node.js and express.js
