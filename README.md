@@ -28,14 +28,21 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 <li>FIREBASE</li>
 </p>
 
-<p width="80%" align="center">
+<p width="300px" align="center">
 <!-- html5 -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/html5.svg">
 <!-- css3 -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/css.svg">
 <!-- tailwind css  -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/tailwind.svg">
 <!-- react js -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/react.svg">
 <!-- node js -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/node.svg">
 <!-- express js -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/express.svg">
 <!-- mongoDB -->
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/mongo.svg">
 <!-- firebase -->
-
+<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/firebase.svg">
 </p>
