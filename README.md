@@ -17,17 +17,6 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 ## 🔧 Technologies & Tools
 
-<p>
-<li>HTML 5</li>
-<li>CSS 3</li>
-<li>TAIWIND CSS</li>
-<li>REACT JS</li>
-<li>NODE JS</li>
-<li>EXPRESS JS</li>
-<li>MONGO DB</li>
-<li>FIREBASE</li>
-</p>
-
 <p width="300px" align="center">
 <!-- html5 -->
 <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/html5.svg">
