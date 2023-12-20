@@ -13,8 +13,8 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 ## 🤝Reach Me Out
 <p align="center">
-<a href="https://www.facebook.com/shreeuttomroyr/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/shree-uttom-roy-rohit-364a35232/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/uttombarmon/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/uttombarmon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/shreeuttomr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 
