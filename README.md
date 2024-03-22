@@ -13,9 +13,9 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 ## 🤝Reach Me Out
 <p align="center">
-<a href="https://www.facebook.com/uttombarmon/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+<a href="https://www.facebook.com/uttombarmonn"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/uttombarmon/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/shreeuttomr"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://twitter.com/uttombarmonn"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 
 ## 🚀 What I'm up to
@@ -44,8 +44,22 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 </p>
 
 # 🛠️ Projects
-## 1. <a href="https://skyline-fb8da.web.app/">SkyLine</a>
+## 1. <a href="https://skyline-fb8da.web.app/">HomifyEstate</a>
 ### Description :
+This website makes for managing and simplifying real-estate business.
+ * User friendly and responsive
+ * Role based dashboard
+ * Advanced search functionality
+ * Weekly send properties update by mail
+ * Secure payment system by SSLcommerz gateway
+
+  #### 🔗Live Link : <a href="https://homifyestate-8556d.web.app/">SkyLine..</a>
+ #### 🔗Client Repo: <a href="https://github.com/uttombarmon/homifyestatef">SkyLine..</a>
+ #### 🔗Server Repo: <a href="https://github.com/uttombarmon/homifyestates">SkyLine..</a>
+
+## 2. <a href="https://skyline-fb8da.web.app/">SkyLine</a>
+### Description :
+This website is created to grow a real-estate business by online platform.
  * This website is make for realestate bussiness
  * This project created by MERN
  * Home page have some features food 
@@ -56,8 +70,9 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
   #### 🔗Live Link : <a href="https://skyline-fb8da.web.app/">SkyLine..</a>
  #### 🔗Repo Link : <a href="https://github.com/uttombarmon/skyline">SkyLine..</a>
 
-## 2. [FoodHub](https://foodhub-3a8d3.web.app/)
+## 3. [FoodHub](https://foodhub-3a8d3.web.app/)
 ### Description :
+This website is created for reducing waste foods and helping each other.
  * This website is waste food make usable
  * This project created by MERN
  * Home page have some features food
@@ -67,7 +82,9 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
  #### 🔗Live Link: [FoodHub..](https://foodhub-3a8d3.web.app/) 
  #### 🔗Repo Link: [FoodHub..](https://github.com/uttombarmon/Hello-Food) 
 
-## 3. [TechHub](https://techhub-85948.web.app)
+## 4. [TechHub](https://techhub-85948.web.app)
+### Description: 
+This website make for easier electronic device bussiness. This website is user friendly. 
 - We are used Router in this project
 - We are used firbase for databases 
 - In server side used node.js and express.js
