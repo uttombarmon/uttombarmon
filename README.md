@@ -53,9 +53,9 @@ This website makes for managing and simplifying real-estate business.
  * Weekly send properties update by mail
  * Secure payment system by SSLcommerz gateway
 
-  #### 🔗Live Link : <a href="https://homifyestate-8556d.web.app/">SkyLine..</a>
- #### 🔗Client Repo: <a href="https://github.com/uttombarmon/homifyestatef">SkyLine..</a>
- #### 🔗Server Repo: <a href="https://github.com/uttombarmon/homifyestates">SkyLine..</a>
+  #### 🔗Live Link : <a href="https://homifyestate-8556d.web.app/">HomifyEstate..</a>
+ #### 🔗Client Repo: <a href="https://github.com/uttombarmon/homifyestatef">HomifyEstate..</a>
+ #### 🔗Server Repo: <a href="https://github.com/uttombarmon/homifyestates">HomifyEstate..</a>
 
 ## 2. <a href="https://skyline-fb8da.web.app/">SkyLine</a>
 ### Description :
