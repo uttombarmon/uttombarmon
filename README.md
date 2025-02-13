@@ -2,7 +2,7 @@
 <!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/main/src/banner.png" width='100%'> -->
 <!-- ![Header](./your-header-image-name.png) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## 💗Welcome
 
