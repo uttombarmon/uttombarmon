@@ -15,7 +15,6 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="80%"></a>
 
-![Uttom's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttombarmon&theme=react&show_icons=true)
 
 <p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttombarmon&theme=react"></p>
 
