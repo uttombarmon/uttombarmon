@@ -2,7 +2,11 @@
 <!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/main/src/banner.png" width='100%'> -->
 <!-- ![Header](./your-header-image-name.png) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer)](https://git.io/typing-svg) -->
+
+<p style="width:100%; margin:0 auto 0 auto;">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
 
 ## 💗Welcome
 
@@ -14,7 +18,6 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 ## Github Activity
 
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="80%"></a></p>
-
 
 <p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttombarmon&theme=react"></p>
 
