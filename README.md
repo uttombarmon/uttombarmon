@@ -4,8 +4,8 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=100&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer)](https://git.io/typing-svg) -->
 
-<p style="width:100%; display:flex; justify-content: center; align-items:center;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer" alt="Typing SVG" /></a>
+<p align="center">
+<a style="width:fit-content" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=200&lines=Hi+%F0%9F%A4%97+there...;I+am+Uttom;from+Bangladesh;a+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ## 💗Welcome
@@ -17,7 +17,15 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 ## Github Activity
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="80%"></a></p>
+<p align="center">
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="80%"></a> -->
+    <a href="https://github.com/TomorChandraRoy/TomorChandraRoy" title="Uttom Stats">
+      <img width="80%" src="https://github-readme-stats.vercel.app/api?username=uttombarmon&show_icons=true&locale=en&theme=react" alt="Uttom Barmon" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Uttom's Streak Stats">
+      <img src="https://streak-stats.demolab.com/?user=uttombarmon&theme=catppuccin-mocha&hide_border=true" width="90%" alt="Uttom Barmon">
+    </a>
+</p>
 
 <p align="center"><img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttombarmon&theme=react"></p>
 
@@ -35,23 +43,28 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 ## 🔧 Technologies & Tools
 
-<p width="300px" align="center">
+<p align="center">
 <!-- html5 -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/html5.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/html5.svg"> -->
 <!-- css3 -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/css.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/css.svg"> -->
 <!-- tailwind css  -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/tailwind.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/tailwind.svg"> -->
 <!-- react js -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/react.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/react.svg"> -->
 <!-- node js -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/node.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/node.svg"> -->
 <!-- express js -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/express.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/express.svg"> -->
 <!-- mongoDB -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/mongo.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/mongo.svg"> -->
 <!-- firebase -->
-<img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/firebase.svg">
+<!-- <img src="https://raw.githubusercontent.com/uttombarmon/uttombarmon/319df64027dd306e3bf29928e84e0aa3722adf8f/src/firebase.svg"> -->
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,react,nextjs,redux,npm,yarn,nodejs,expressjs,ts,mongodb,git,github,firebase,mysql,postgres,graphql,vercel,vite" />
+</a>
+
 </p>
 
 # 🛠️ Projects
