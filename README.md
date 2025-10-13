@@ -69,7 +69,26 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects that
 
 # 🛠️ Projects
 
-## 1. <a href="https://skyline-fb8da.web.app/">HomifyEstate</a>
+## <a href="https://pixelbay-three.vercel.app/">PixelBay</a>
+
+### Description :
+PixelBay is a modern, full-stack e-commerce application designed to provide a fast, scalable, and intuitive shopping experience. It features a streamlined user flow—from browsing products and managing a cart to secure order placement—alongside a robust, role-based admin dashboard for complete store management.
+
+- Next.js 14 & SSR: High-performance, SEO-optimized e-commerce platform using the App Router.
+- Full Shopping Flow: Secure cart management, user reviews, and order processing.
+- Type-Safe Database: Modern stack with PostgreSQL and Drizzle ORM.
+- Admin Control: Role-Based Access Control (RBAC) dashboard for all management tasks.
+<!-- Highlight Tags (Badges) -->
+
+**Tech Stack:**  
+🪶 Next.js | 🔷 TypeScript | 🌿 Drizzle ORM | 🐘 PostgreSQL
+
+
+#### 🔗Live Link : <a href="https://pixelbay-three.vercel.app/">PixelBay..</a>
+
+#### 🔗Code Repo: <a href="https://github.com/uttombarmon/pixelbay">PixelBay..</a>
+
+## <a href="https://skyline-fb8da.web.app/">HomifyEstate</a>
 
 ### Description :
 
@@ -87,7 +106,7 @@ This website makes for managing and simplifying real-estate business.
 
 #### 🔗Server Repo: <a href="https://github.com/uttombarmon/homifyestates">HomifyEstate..</a>
 
-## 2. <a href="https://skyline-fb8da.web.app/">SkyLine</a>
+## <a href="https://skyline-fb8da.web.app/">SkyLine</a>
 
 ### Description :
 
@@ -105,7 +124,7 @@ This website is created to grow a real-estate business by online platform.
 
 #### 🔗Repo Link : <a href="https://github.com/uttombarmon/skyline">SkyLine..</a>
 
-## 3. [FoodHub](https://foodhub-3a8d3.web.app/)
+## [FoodHub](https://foodhub-3a8d3.web.app/)
 
 ### Description :
 
